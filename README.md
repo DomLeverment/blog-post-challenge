@@ -15,13 +15,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](assets/images/Screenshot 2024-06-03 at 14.30.38.png))
+![]((assets/images/Screenshot 2024-06-03 at 14.30.38.png))
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://domleverment.github.io/blog-post-challenge/)
+- Github URL: (https://github.com/DomLeverment/blog-post-challenge)
 
 ## My process
 - built out html
@@ -37,13 +37,12 @@ Users should be able to:
 
 ### What I learned
 
-That i still need more practice with css layout
+That i still need more practice with css layout. I still need help with transition classes
 
 ### Continued development
 
 I'll continue on in the learning path and try and get more of an understanding of css grid next time. I will also continue practicing css in general as i find that more difficult than setting up the the html structure
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 
 
