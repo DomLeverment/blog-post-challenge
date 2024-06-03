@@ -28,10 +28,15 @@ body {
     width: 384px;
     border-radius: 20px;
     border-style: solid;
-    border-color: 1px #000000;
-    box-shadow: 5px 5px#000000;
+    border-color: 1px solid #000000;
+    box-shadow: 5px 5px 0px 0px #000000;
     padding: 24px;
     cursor: pointer;
+    transition: box-shadow 500ms;
+}
+
+.main_blog:hover {
+    box-shadow: 10px 10px 15px 0px #000000;
 }
 
 img {
@@ -70,8 +75,6 @@ h1 {
 
 h1:hover {
     color:  #F4D04E;
-    caret-color: black;
-
 }
 
 .para {
