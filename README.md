@@ -15,7 +15,7 @@ Users should be able to:
 
 ### Screenshot
 
-![]((assets/images/Screenshot 2024-06-03 at 14.30.38.png))
+![Screenshot of solution]((assets/images/Screenshot 2024-06-03 at 14.30.38.png))
 
 
 ### Links
